@@ -1,0 +1,6 @@
+C:\Users\admin\.Rider2017.2\src\Mushrooms\Mushrooms\bin\Debug\Mushrooms.exe
+C:\Users\admin\.Rider2017.2\src\Mushrooms\Mushrooms\bin\Debug\Mushrooms.pdb
+C:\Users\admin\.Rider2017.2\src\Mushrooms\Mushrooms\obj\Debug\Mushrooms.csprojResolveAssemblyReference.cache
+C:\Users\admin\.Rider2017.2\src\Mushrooms\Mushrooms\obj\Debug\Mushrooms.csproj.CoreCompileInputs.cache
+C:\Users\admin\.Rider2017.2\src\Mushrooms\Mushrooms\obj\Debug\Mushrooms.exe
+C:\Users\admin\.Rider2017.2\src\Mushrooms\Mushrooms\obj\Debug\Mushrooms.pdb
